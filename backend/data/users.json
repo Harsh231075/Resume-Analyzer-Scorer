@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "id": "aeb6ec19-c215-4db3-99f7-274aacdc93f8",
+      "name": "Test User",
+      "email": "test@example.com",
+      "password": "ecd71870d1963316a97e3ac3408c9835ad8cf0f3c1bc703527c30265534f75ae",
+      "token": "65ddb307012bbba3e0b39f4fe1dbadb170d42d6cafacf201e3679f1649e05ed0",
+      "createdAt": "2025-12-25T04:16:55.035Z",
+      "resumes": []
+    }
+  ]
+}
