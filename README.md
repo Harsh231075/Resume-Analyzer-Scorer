@@ -2,7 +2,7 @@
 
 A modern, AI-powered Resume Analyzer SaaS application that helps users optimize their resumes for Applicant Tracking Systems (ATS) and specific job roles. Built with the MERN stack (conceptually) and Google Gemini AI.
 
-![Landing Page](/Users/himanshusingh/.gemini/antigravity/brain/a910cda8-84fb-4e77-8719-2f390235f2f0/landing_page_ui_1766635296715.png)
+![Landing Page]()
 
 ## ✨ Features
 
@@ -98,4 +98,4 @@ resume-scorer/
 -   **CORS Error**: Backend allows localhost:5173 and localhost:5174 by default.
 
 ---
-*Built with ❤️ by Antigravity*
+*Built with ❤️ by Harsh singh baghel*
